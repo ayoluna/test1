@@ -7,7 +7,7 @@ def resta(a, b):
     return resultado
 
 # Ejemplos de uso
-numero1 = 10
+numero1 = 11
 numero2 = 5
 
 resultado_suma = suma(numero1, numero2)
